@@ -1,0 +1,16 @@
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\bin\Debug\net5.0\12-Switch.exe
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\bin\Debug\net5.0\12-Switch.deps.json
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\bin\Debug\net5.0\12-Switch.runtimeconfig.json
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\bin\Debug\net5.0\12-Switch.runtimeconfig.dev.json
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\bin\Debug\net5.0\12-Switch.dll
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\bin\Debug\net5.0\ref\12-Switch.dll
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\bin\Debug\net5.0\12-Switch.pdb
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\obj\Debug\net5.0\12-Switch.csproj.AssemblyReference.cache
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\obj\Debug\net5.0\12-Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\obj\Debug\net5.0\12-Switch.AssemblyInfoInputs.cache
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\obj\Debug\net5.0\12-Switch.AssemblyInfo.cs
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\obj\Debug\net5.0\12-Switch.csproj.CoreCompileInputs.cache
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\obj\Debug\net5.0\12-Switch.dll
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\obj\Debug\net5.0\ref\12-Switch.dll
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\obj\Debug\net5.0\12-Switch.pdb
+C:\Faryn Nauka\Informatyka\moja_nauka\CS_21dni\12-Switch\obj\Debug\net5.0\12-Switch.genruntimeconfig.cache
